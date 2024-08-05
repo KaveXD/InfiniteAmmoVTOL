@@ -1,0 +1,11 @@
+﻿{
+  "Title": "Infinite Ammo",
+  "Description": "Infinite Ammo",
+  "PreviewImageUrl": "https://vtolvr-mods.com/static/img/Logo.png",
+  "MetaData": {
+    "DllName": "InfiniteAmmo.dll",
+    "AllowLoadOnStart": true,
+    "ShowOnMainList": true,
+    "DllHash": ""
+  }
+}

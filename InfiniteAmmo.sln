@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniteAmmo", "InfiniteAmmo\InfiniteAmmo.csproj", "{04959B7E-5A2E-4CF8-BAE3-7F67530657CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04959B7E-5A2E-4CF8-BAE3-7F67530657CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04959B7E-5A2E-4CF8-BAE3-7F67530657CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04959B7E-5A2E-4CF8-BAE3-7F67530657CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04959B7E-5A2E-4CF8-BAE3-7F67530657CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFAFCA01-041B-4E75-BFDD-3545B16A9895}
+	EndGlobalSection
+EndGlobal
